@@ -44,7 +44,7 @@ A watered seed grows into a plant after about 5 seconds.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/isometric-garden.git
+   git clone https://github.com/samridhiidahal/isometric-garden.git
    cd isometric-garden
 
 2. Install the dependency:
