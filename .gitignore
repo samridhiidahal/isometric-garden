@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build output
+build/
+*.exe
+
+# Generated at runtime (created when you press S in the game)
+garden_save.json
+
+# Secrets
+.env
